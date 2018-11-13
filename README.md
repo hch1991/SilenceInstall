@@ -1,4 +1,4 @@
-# SilentInstall
+# SilenceInstall
 
 
 ## 简介
